@@ -1,6 +1,9 @@
 <template>
   <div>
+    <canvas id="bg"></canvas>
     <ElementA/>
+    <ElementB/>
+    <ElementC/>
   </div>
 </template>
 
